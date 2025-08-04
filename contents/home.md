@@ -1,17 +1,16 @@
+[![wqh]]
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He enjoys competitive games like DOTA, CS:GO, PUBG, and Hearthstone, as well as Black Myth: Wukong. He’s also into suspense films and the variety show Keep Running (《五哈》). Currently interning at a major tech company, he focuses on front-end development with aspirations to become a full-stack engineer.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: wangqihzx@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+M.E., Computer Technology, Zhejiang Sci-Tech University, 2023—2026.\
+B.E., Computer Science and Technology, Zhejiang Shuren University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+Deep Learning, Salient Object Detection, Artificial Intelligence.
